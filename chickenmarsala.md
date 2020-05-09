@@ -41,3 +41,6 @@ This serves 6-8.
 * Might need to use more salt in the flour mixture than you think.
 * Can probably use even more marsala wine.
 * I have been using supermarket cooking wine, but people say that drinking quality marsala wine gives better result. :shrug:
+* Goes well with linguine and other thin, long pastas. Tried fettucine once and was not great.
+* Nice to serve with some Italian bread to mop up the sauce.
+* When eating with pasta, I like having some tomato sauce on the side that I sometimes merge with the chicken marsala sauce and eat with some bread or pasta.

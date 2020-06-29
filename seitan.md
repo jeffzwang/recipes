@@ -52,3 +52,9 @@
     mindsets of a lot of fitness minded omnivores. At least, that is my story.
 * This should keep in the fridge for a long time. Probably about a week, or
     more. 
+* No matter what, you should probably wait for the seitan to cool before trying
+    to fry it. The reason is because if the seitan is still hot when you fry it,
+    then the water in it will more easily evaporate, and when it does, it will
+    combine with oil droplets to create hazardous oil splatters. This is the
+    same phenenomenon as a grease fire. This is also speculation - maybe there
+    are other reasons, but this seems like it checks out to me.

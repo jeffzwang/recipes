@@ -18,7 +18,8 @@
 2. Knead all ingredients in a mixing bowl for 5+ minutes. (The more you knead 
    the dough, the chewier the seitan will be)
 3. Separate into 2-3 equal chunks.
-4. Add soy sauce to pot and reduce heat to simmer chunks for 45 minutes. (When simmering, make sure that the simmer is not too vigorous or else the
+4. Add soy sauce to pot and reduce heat to simmer chunks for 45 minutes.
+   (When simmering, make sure that the simmer is not too vigorous or else the
    seitan will not hold its shape as well)
 5. Remove seitan from pot, store in fridge. (This should keep in the fridge for a long time. It would last about a week, or more) 
 
@@ -53,4 +54,3 @@
     I think such a study would be incredibly valuable to the world because
     seitan is sort of a miracle food because it's pure protein. Could change the
     mindsets of a lot of fitness minded omnivores. At least, that is my story.
-

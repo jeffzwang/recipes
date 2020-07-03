@@ -1,4 +1,4 @@
-# Seitan 
+# Seitan
 
 ## Ingredients
 
@@ -13,9 +13,10 @@
 
 ## Steps
 
-1. Start boiling water in a pot
-2. Knead all ingredients in a mixing bowl for 5+ minutes. (The more you knead the dough, the chewier the seitan
-   will be)
+1. Start boiling water in a pot if you plan to simmer or steam the seitan. If
+   you are baking, preheat the oven. (So far, I have only tried simmering)
+2. Knead all ingredients in a mixing bowl for 5+ minutes. (The more you knead 
+   the dough, the chewier the seitan will be)
 3. Separate into 2-3 equal chunks.
 4. Add soy sauce to pot and reduce heat to simmer chunks for 45 minutes. (When simmering, make sure that the simmer is not too vigorous or else the
    seitan will not hold its shape as well)
@@ -23,7 +24,6 @@
 
 ## Cooking methods
 
-* Some cooking methods are simmering, steaming, and banking. So far, I have only tried simmmering.
 * Stir frying the seitan by itself in some neutral oil is really nice. Deep frying is also quite good. Would not recommend eating the seitan without doing these things because the Maillard reaction definitely improves the flavor noticably.
 * Put in stir fry, curry, or anything else that you desire.
 * No matter what, you should probably wait for the seitan to cool before trying

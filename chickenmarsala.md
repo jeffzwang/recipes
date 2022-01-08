@@ -5,7 +5,7 @@ This serves 6-8.
 
 * 4-5 lbs chicken breast
 * 30-40 oz. button mushrooms
-* Italian parsley (optional)
+* Flat leaf parsley (optional)
 * 3 shallots (optional)
 * 1-1.5 heads of garlic
 * 1-2 cups chicken broth

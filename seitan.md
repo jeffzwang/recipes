@@ -33,6 +33,8 @@
     combine with oil droplets to create hazardous oil splatters. This is the
     same phenenomenon as a grease fire. This is also speculation - maybe there
     are other reasons, but this seems like it checks out to me.
+* Bread cooker. Is very easy, more meaty texture, but less tasty in my opinion
+  because the result does not retain moisture as well.
 
 
 ## About me and how I found Seitan 

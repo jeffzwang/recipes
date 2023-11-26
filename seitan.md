@@ -43,9 +43,7 @@
 * I have also not tried omitting pea protein powder. The internet tells me that
     this gives better texture, and also it balances the amino acid profile so
     that the seitan has complete amino acids, so I just do it. Plus, I just had
-    some pea protein powder lying around, so... This is my MVP seitan - I
-    haven't done a lot of experimentation. However, I think this version tastes
-    pretty good.
+    some pea protein powder lying around, so...
 * Some recipes will say to add cayenne and a bunch of other spices. To be quite
     honest, I can't tell the difference between when cayenne and no cayenne when
     I experimented with that. Maybe worth some experimentation to test spice

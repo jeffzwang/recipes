@@ -5,5 +5,5 @@
 - Eggs taste best if you cook them in a ton of oil.
 - Definitely add:
     * little bit of MSG.
-    *  Definitely add a little bit of ketchup.
-    * Definitely add a healthy pinch of sugar.
+    *  A little bit of ketchup for extra acidity and sweetness
+    * Healthy pinch of sugar (can omit if on diet)
